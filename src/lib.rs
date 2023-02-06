@@ -24,6 +24,7 @@ mod diff;
 mod entry;
 pub mod errors;
 pub mod excludes;
+pub mod fbs;
 mod gc_lock;
 pub mod in_memory_recorder;
 pub mod index;
